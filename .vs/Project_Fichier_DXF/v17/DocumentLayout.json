@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YOUSRA\\source\\repos\\Project_Fichier_DXF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7DC0-974E-476E-A544-DAA76D63BE94}|Project_Fichier_DXF\\Project_Fichier_DXF.csproj|c:\\users\\yousra\\source\\repos\\project_fichier_dxf\\project_fichier_dxf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C68D7DC0-974E-476E-A544-DAA76D63BE94}|Project_Fichier_DXF\\Project_Fichier_DXF.csproj|solutionrelative:project_fichier_dxf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68D7DC0-974E-476E-A544-DAA76D63BE94}|Project_Fichier_DXF\\Project_Fichier_DXF.csproj|c:\\users\\yousra\\source\\repos\\project_fichier_dxf\\project_fichier_dxf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68D7DC0-974E-476E-A544-DAA76D63BE94}|Project_Fichier_DXF\\Project_Fichier_DXF.csproj|solutionrelative:project_fichier_dxf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\source\\repos\\Project_Fichier_DXF\\Project_Fichier_DXF\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Fichier_DXF\\Form1.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\source\\repos\\Project_Fichier_DXF\\Project_Fichier_DXF\\Form1.cs",
+              "RelativeToolTip": "Project_Fichier_DXF\\Form1.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAIwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:17:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\source\\repos\\Project_Fichier_DXF\\Project_Fichier_DXF\\Form1.cs",
+              "RelativeDocumentMoniker": "Project_Fichier_DXF\\Form1.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\source\\repos\\Project_Fichier_DXF\\Project_Fichier_DXF\\Form1.cs [Design]",
+              "RelativeToolTip": "Project_Fichier_DXF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:30:41.761Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\bin\Debug\Project_Fichier_DXF.exe.config
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\bin\Debug\Project_Fichier_DXF.exe
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\bin\Debug\Project_Fichier_DXF.pdb
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.csproj.AssemblyReference.cache
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.Form1.resources
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.Properties.Resources.resources
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.csproj.GenerateResource.cache
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.csproj.CoreCompileInputs.cache
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.exe
+C:\Users\YOUSRA\source\repos\Project_Fichier_DXF\Project_Fichier_DXF\obj\Debug\Project_Fichier_DXF.pdb
